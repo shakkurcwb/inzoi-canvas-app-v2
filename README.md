@@ -7,7 +7,7 @@ Scrap inZOI Canvas' Gallery assets and details and get it ready for publishing o
 - PHP 8.2 or higher
  - ext-curl, ext-json, ext-zip
 - Composer
-- Chrome Webdriver - (link)[https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br]
+- Chrome Webdriver
 
 ## Installation
 
